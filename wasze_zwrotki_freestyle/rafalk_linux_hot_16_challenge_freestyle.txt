@@ -1,0 +1,14 @@
+Obudziłem sie rano i tkakie coś mi się poukładało:
+
+cd katalog to nie nuzyka: to do ktalogu cie wymyka
+jeżeli chcesz zobaczyć plików liste: wpisz ls- to oczywiste
+chcesz stworzyć katalog? wpisz mkdir- taki monolog
+zrobiłeś literowke albo byka? Pisz rmdir- i katalog znika
+ale katalog musi byc pusty: inaczej zobaczysz błąd tłusty
+a teraz wpisz nano: nazwa_pliku i juz mozesz pisać w notatniku
+Znudzilo ci sie juz pisanie? Wklep: ctrl + x na ekranie
+możesz tesz wpisac vim tekstowy- to inny notatnik. Nawet fajowy
+Coś innego chcesz zrobić może? Pisz na discordzie: ktoś pomoże:)
+To juz koniec tego limeryka, idę się napić kawy łyka. 
+
+Have fun :)
